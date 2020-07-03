@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tugascb.perpustakaan"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="28" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="perpustakaan"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.tugascb.perpustakaan.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tugascb.perpustakaan.BuatKontak"
+            android:label="Daftar Buku Perpustakaan" >
+        </activity>
+        <activity
+            android:name="com.tugascb.perpustakaan.LihatKontak"
+            android:label="Lihat Buku" >
+        </activity>
+        <activity
+            android:name="com.tugascb.perpustakaan.UpdateKontak"
+            android:label="Edit Buku" >
+        </activity>
+    </application>
+
+</manifest>
