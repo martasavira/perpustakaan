@@ -20,16 +20,20 @@
         "source": "E:\\perpustakaan\\app\\src\\main\\res\\mipmap-xhdpi\\ss.png"
     },
     {
+        "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_buku.xml.flat",
+        "source": "E:\\perpustakaan\\app\\src\\main\\res\\layout\\activity_update_buku.xml"
+    },
+    {
         "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_save.png.flat",
         "source": "E:\\perpustakaan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_save.png"
     },
     {
-        "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "E:\\perpustakaan\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "E:\\perpustakaan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\perpustakaan\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
         "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_save.png.flat",
@@ -104,10 +108,6 @@
         "source": "E:\\perpustakaan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add.png"
     },
     {
-        "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_buat_kontak.xml.flat",
-        "source": "E:\\perpustakaan\\app\\src\\main\\res\\layout\\activity_buat_kontak.xml"
-    },
-    {
         "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
         "source": "E:\\perpustakaan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
@@ -124,16 +124,16 @@
         "source": "E:\\perpustakaan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add.xml"
     },
     {
-        "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_kontak.xml.flat",
-        "source": "E:\\perpustakaan\\app\\src\\main\\res\\layout\\activity_update_kontak.xml"
-    },
-    {
         "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_save.png.flat",
         "source": "E:\\perpustakaan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_save.png"
     },
     {
         "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "E:\\perpustakaan\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_buat_buku.xml.flat",
+        "source": "E:\\perpustakaan\\app\\src\\main\\res\\layout\\activity_buat_buku.xml"
     },
     {
         "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_back.xml.flat",
@@ -180,6 +180,10 @@
         "source": "E:\\perpustakaan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add.png"
     },
     {
+        "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lihat_buku.xml.flat",
+        "source": "E:\\perpustakaan\\app\\src\\main\\res\\layout\\activity_lihat_buku.xml"
+    },
+    {
         "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "E:\\perpustakaan\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
@@ -194,10 +198,6 @@
     {
         "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_s.png.flat",
         "source": "E:\\perpustakaan\\app\\src\\main\\res\\mipmap-xxhdpi\\s.png"
-    },
-    {
-        "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lihat_kontak.xml.flat",
-        "source": "E:\\perpustakaan\\app\\src\\main\\res\\layout\\activity_lihat_kontak.xml"
     },
     {
         "merged": "E:\\perpustakaan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",

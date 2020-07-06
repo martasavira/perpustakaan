@@ -26,15 +26,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.tugascb.perpustakaan.BuatKontak"
+            android:name="com.tugascb.perpustakaan.BuatBuku"
             android:label="Daftar Buku Perpustakaan" >
         </activity>
         <activity
-            android:name="com.tugascb.perpustakaan.LihatKontak"
+            android:name="com.tugascb.perpustakaan.LihatBuku"
             android:label="Lihat Buku" >
         </activity>
         <activity
-            android:name="com.tugascb.perpustakaan.UpdateKontak"
+            android:name="com.tugascb.perpustakaan.UpdateBuku"
             android:label="Edit Buku" >
         </activity>
     </application>

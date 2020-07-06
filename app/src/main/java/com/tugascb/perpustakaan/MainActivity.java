@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View arg0) {
-                Intent inte = new Intent(MainActivity.this, com.tugascb.perpustakaan.BuatKontak.class);
+                Intent inte = new Intent(MainActivity.this, com.tugascb.perpustakaan.BuatBuku.class);
                 startActivity(inte);
             }
         });
@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void RefreshList() {
         SQLiteDatabase db = dbcenter.getReadableDatabase();
-        cursor = db.rawQuery("SELECT * FROM namecard", null);
+        cursor = db.rawQuery("SELECT * FROM dataperpus", null);
         daftar = new String[cursor.getCount()];
         cursor.moveToFirst();
         for (int cc = 0; cc < cursor.getCount(); cc++) {
@@ -67,18 +67,18 @@ public class MainActivity extends AppCompatActivity {
                             public void onClick(DialogInterface dialog, int item) {
                                 switch (item) {
                                     case 0:
-                                        Intent i = new Intent(getApplicationContext(), com.tugascb.perpustakaan.LihatKontak.class);
+                                        Intent i = new Intent(getApplicationContext(), com.tugascb.perpustakaan.LihatBuku.class);
                                         i.putExtra("nama", selection);
                                         startActivity(i);
                                         break;
                                     case 1:
-                                        Intent in = new Intent(getApplicationContext(), com.tugascb.perpustakaan.UpdateKontak.class);
+                                        Intent in = new Intent(getApplicationContext(), com.tugascb.perpustakaan.UpdateBuku.class);
                                         in.putExtra("nama", selection);
                                         startActivity(in);
                                         break;
                                     case 2:
                                         SQLiteDatabase db = dbcenter.getWritableDatabase();
-                                        db.execSQL("delete from namecard where nama = '" + selection + "'");
+                                        db.execSQL("delete from dataperpus where nama = '" + selection + "'");
                                         RefreshList();
                                         break;
                                 }

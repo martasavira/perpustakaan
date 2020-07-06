@@ -90,24 +90,24 @@ category#android.intent.category.LAUNCHER
 ADDED from E:\perpustakaan\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from E:\perpustakaan\app\src\main\AndroidManifest.xml:16:27-74
-activity#com.tugascb.perpustakaan.BuatKontak
+activity#com.tugascb.perpustakaan.BuatBuku
 ADDED from E:\perpustakaan\app\src\main\AndroidManifest.xml:19:9-21:20
 	android:label
 		ADDED from E:\perpustakaan\app\src\main\AndroidManifest.xml:20:13-53
 	android:name
-		ADDED from E:\perpustakaan\app\src\main\AndroidManifest.xml:19:19-69
-activity#com.tugascb.perpustakaan.LihatKontak
+		ADDED from E:\perpustakaan\app\src\main\AndroidManifest.xml:19:19-67
+activity#com.tugascb.perpustakaan.LihatBuku
 ADDED from E:\perpustakaan\app\src\main\AndroidManifest.xml:22:9-24:20
 	android:label
 		ADDED from E:\perpustakaan\app\src\main\AndroidManifest.xml:23:13-39
 	android:name
-		ADDED from E:\perpustakaan\app\src\main\AndroidManifest.xml:22:19-70
-activity#com.tugascb.perpustakaan.UpdateKontak
+		ADDED from E:\perpustakaan\app\src\main\AndroidManifest.xml:22:19-68
+activity#com.tugascb.perpustakaan.UpdateBuku
 ADDED from E:\perpustakaan\app\src\main\AndroidManifest.xml:25:9-27:20
 	android:label
 		ADDED from E:\perpustakaan\app\src\main\AndroidManifest.xml:26:13-38
 	android:name
-		ADDED from E:\perpustakaan\app\src\main\AndroidManifest.xml:25:19-71
+		ADDED from E:\perpustakaan\app\src\main\AndroidManifest.xml:25:19-69
 uses-sdk
 INJECTED from E:\perpustakaan\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\perpustakaan\app\src\main\AndroidManifest.xml

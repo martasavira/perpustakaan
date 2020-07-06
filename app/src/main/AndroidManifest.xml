@@ -16,13 +16,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.tugascb.perpustakaan.BuatKontak"
+        <activity android:name="com.tugascb.perpustakaan.BuatBuku"
             android:label="Daftar Buku Perpustakaan">
         </activity>
-        <activity android:name="com.tugascb.perpustakaan.LihatKontak"
+        <activity android:name="com.tugascb.perpustakaan.LihatBuku"
             android:label="Lihat Buku">
         </activity>
-        <activity android:name="com.tugascb.perpustakaan.UpdateKontak"
+        <activity android:name="com.tugascb.perpustakaan.UpdateBuku"
             android:label="Edit Buku">
         </activity>
     </application>

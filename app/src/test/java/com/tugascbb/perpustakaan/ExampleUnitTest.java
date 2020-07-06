@@ -1,4 +1,4 @@
-package com.tugascb.kartunama;
+package com.tugascb.perpustakaan;
 
 import org.junit.Test;
 

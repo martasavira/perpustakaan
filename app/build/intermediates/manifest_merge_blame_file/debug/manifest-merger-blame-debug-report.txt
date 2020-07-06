@@ -44,22 +44,22 @@
 27        </activity>
 28        <activity
 28-->E:\perpustakaan\app\src\main\AndroidManifest.xml:19:9-21:20
-29            android:name="com.tugascb.perpustakaan.BuatKontak"
-29-->E:\perpustakaan\app\src\main\AndroidManifest.xml:19:19-69
+29            android:name="com.tugascb.perpustakaan.BuatBuku"
+29-->E:\perpustakaan\app\src\main\AndroidManifest.xml:19:19-67
 30            android:label="Daftar Buku Perpustakaan" >
 30-->E:\perpustakaan\app\src\main\AndroidManifest.xml:20:13-53
 31        </activity>
 32        <activity
 32-->E:\perpustakaan\app\src\main\AndroidManifest.xml:22:9-24:20
-33            android:name="com.tugascb.perpustakaan.LihatKontak"
-33-->E:\perpustakaan\app\src\main\AndroidManifest.xml:22:19-70
+33            android:name="com.tugascb.perpustakaan.LihatBuku"
+33-->E:\perpustakaan\app\src\main\AndroidManifest.xml:22:19-68
 34            android:label="Lihat Buku" >
 34-->E:\perpustakaan\app\src\main\AndroidManifest.xml:23:13-39
 35        </activity>
 36        <activity
 36-->E:\perpustakaan\app\src\main\AndroidManifest.xml:25:9-27:20
-37            android:name="com.tugascb.perpustakaan.UpdateKontak"
-37-->E:\perpustakaan\app\src\main\AndroidManifest.xml:25:19-71
+37            android:name="com.tugascb.perpustakaan.UpdateBuku"
+37-->E:\perpustakaan\app\src\main\AndroidManifest.xml:25:19-69
 38            android:label="Edit Buku" >
 38-->E:\perpustakaan\app\src\main\AndroidManifest.xml:26:13-38
 39        </activity>
